@@ -1,0 +1,12 @@
+Summary:
+1. Static attributes are created at class level.
+2. Static attributes are accessed using ClassName.
+3. Static attributes are object independent. We can access them without 
+4. creating instance (object) of the class in which they are defined.
+5. The value stored in static attribute is shared between all instances(objects) of the class in which the static attribute is defined.
+Inheritance	----->	Mobile is a Product
+
+Aggregation	----->        Customer has an Address. Even if the Customer is no more, there may be other customers in that address. So Address continues to exist even after a customer is no more
+
+Composition	------->     College has a department. If the college closes, the department is also closed
+
